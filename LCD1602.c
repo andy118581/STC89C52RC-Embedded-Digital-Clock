@@ -9,7 +9,7 @@ sbit LCD_EN=P2^7;       //宣告P2_7腳位為使能
 
 //函式定義：
 /**
-  * @brief  LCD1602延時函式，11.0592MHz調用可延時1ms
+  * @brief  LCD1602延時函式,11.0592MHz,調用可延時1ms
   * @param  無
   * @retval 無
   */
